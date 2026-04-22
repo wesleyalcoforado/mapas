@@ -1,4 +1,4 @@
-Mapas georreferenciados e convertidos em raw XYZ tiles.
+Mapas georreferenciados com QGIS e convertidos em raw XYZ tiles.
 
 Exemplo:
 
